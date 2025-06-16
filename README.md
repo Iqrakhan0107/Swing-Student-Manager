@@ -1,5 +1,7 @@
 # 🎓 Swing Student Manager
 
+A user-friendly Java Swing desktop app for managing student records, built with a focus on practical UI design and core Java principles.
+
 A lightweight desktop app built using Java Swing that lets you manage student records with a simple and user-friendly interface.
 
 ---
